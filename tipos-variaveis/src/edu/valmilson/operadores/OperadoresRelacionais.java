@@ -1,3 +1,4 @@
+package edu.valmilson.operadores;
 public class OperadoresRelacionais {
     public static void main(String[] args) {
         int numeroUm = 1;
@@ -11,6 +12,6 @@ public class OperadoresRelacionais {
 
         System.out.println("O numeroUm é diferente de numeroDois? "+simNao);
 
-        
+
     }
 }
