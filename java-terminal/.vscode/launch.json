@@ -14,7 +14,11 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "projectName": "java-terminal_79667880"
+            "args":[
+                "Valmilson Lucena",
+            48,
+            1.54
+            ]
         },
         {
             "type": "java",
