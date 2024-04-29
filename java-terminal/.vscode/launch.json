@@ -15,9 +15,10 @@
             "request": "launch",
             "mainClass": "AboutMe",
             "args":[
-                "Valmilson Lucena",
-            48,
-            1.54
+                "Valmilson",
+                "Lucena",
+                "48",
+                "1.54"
             ]
         },
         {
